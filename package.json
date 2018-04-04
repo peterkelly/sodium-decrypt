@@ -1,0 +1,13 @@
+{
+  "name": "sodium-decrypt",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Peter Kelly <peter@pmkelly.net>",
+  "license": "UNLICESNED",
+  "dependencies": {
+    "libsodium-wrappers": "0.5.4"
+  }
+}
